@@ -1,3 +1,5 @@
+
+
 body {
   position: relative;
   font-family: 'Montserrat', sans-serif;
@@ -148,4 +150,10 @@ h1, h2, h3, h4, h5, p, li, small, label {
 .social-media a {
   text-align: center;
   color: black;
+}
+
+.text-box {
+  background: lightgray;
+  padding: 2rem;
+  margin: 2rem;
 }
